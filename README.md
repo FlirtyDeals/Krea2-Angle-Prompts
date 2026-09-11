@@ -43,4 +43,4 @@ Contributions of new angle prompts are welcome. To submit one:
 
 ## License
 
-The code in this repository has no license attached, meaning all rights are reserved by default. The prompt text and example content are licensed separately under CC BY-NC-ND 4.0 (Attribution-NonCommercial-NoDerivatives). See `LICENSE.md` for details.
+The code in this repository has no license attached, meaning all rights are reserved by default. The prompt text and example content are licensed separately under CC BY-NC 4.0 (Attribution-NonCommercial). This allows reuse and remixing, provided credit is given and the material is not used commercially without permission. See `LICENSE.md` for details.
