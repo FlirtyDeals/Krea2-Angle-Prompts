@@ -1,10 +1,7 @@
 https://flirtydeals.com/krea2-angle-prompts
 
 # Krea 2 Angle Prompts
-
-## What this is
-
-This repository is focused entirely on camera angle prompts.
+## A repository focused entirely on camera angle prompts.
 
 ## Tutorial
 
