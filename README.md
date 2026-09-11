@@ -1,3 +1,5 @@
+https://flirtydeals.com/krea2-angle-prompts
+
 # Krea 2 Angle Prompts
 
 A set of angle prompts for Krea 2, written to keep a subject consistent across generations while changing the camera angle. Browse by angle, then copy any prompt directly into your workflow.
