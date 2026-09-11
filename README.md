@@ -1,4 +1,4 @@
-## 🔗 [flirtydeals.com/krea2-angle-prompts](https://flirtydeals.com/krea2-angle-prompts)
+## 🔗 [FlirtyDeals.com/Krea2-Angle-Prompts](https://flirtydeals.com/krea2-angle-prompts)
 
 # Krea 2 View Angle Prompts
 
